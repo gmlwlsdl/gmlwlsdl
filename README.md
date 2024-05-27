@@ -1,15 +1,25 @@
-# 희진 HeeJin Park
+![header](https://capsule-render.vercel.app/api?type=waving&color=b6c9a5&height=100&section=header)
 
 
-<div> 
+<div align=center>
+  <h3>희진 HeeJin Park</h3>
+</div>
+
+
+
+<div align=center> 
   <a href="https://gmlwlsl.notion.site/K-Software-Empowerment-BootCamp-Resume-458b3477a2ec4a75af1477852c88fdc2?pvs=74"><img         src="https://img.shields.io/badge/Notion-634832?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-3b5998?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:heejin094@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
  <br>
+ <br>
 
- ## Languages & Tools
+<div align=center>
+  <h3>Languages & Tools</h3>
+
+  
  [![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,js,react,vue,nodejs,express,androidstudio,flutter)](https://skillicons.dev)
  
  
@@ -18,7 +28,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=notion,github)](https://skillicons.dev)
 
-
+</div>
 <!--
 **gmlwlsdl/gmlwlsdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
