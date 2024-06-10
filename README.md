@@ -8,9 +8,10 @@
 
 
 <div align=center> 
-  <a href="https://gmlwlsl.notion.site/K-Software-Empowerment-BootCamp-Resume-458b3477a2ec4a75af1477852c88fdc2?pvs=74"><img         src="https://img.shields.io/badge/Notion-634832?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-3b5998?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:heejin094@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://gmlwlsl.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="https://gmlwlsl.notion.site/K-Software-Empowerment-BootCamp-Resume-458b3477a2ec4a75af1477852c88fdc2?pvs=74"><img src="https://img.shields.io/badge/Notion-AF8F6F?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-3b5998?style=flat&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:heejin094@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
  <br>
