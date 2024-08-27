@@ -21,7 +21,7 @@
   <h3>Languages & Tools</h3>
 
   
- [![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,js,react,vue,nodejs,express,androidstudio,flutter)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,react,nodejs,express)](https://skillicons.dev)
  
  
  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,linux,kali,aws,azure,docker,netlify)](https://skillicons.dev)
