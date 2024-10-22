@@ -1,6 +1,6 @@
 ## Frontend Developer
 
----
+
 
 ### 👩🏻‍💻 About Me
 
@@ -13,7 +13,7 @@
 - **[2024.09.06 ~ ]** **(주)구름** SW청소년 동행 프로젝트 멘토
 - **[2024.10.21 ~ ]** **카카오테크 클라우드 네이티브 in 제주**
 
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,linux,aws,azure,docker)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=notion,github)](https://skillicons.dev)
 
----
+
 
 ### 📫 Contact
 
