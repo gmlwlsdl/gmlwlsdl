@@ -65,8 +65,6 @@
 ### 📫 Contact
 
 <div>
-  <a href="https://gmlwlsl.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/gmlwlsl/Resume-Park-Heejin-57a9a3c2184e4defa8207bdb6d055bc2"><img src="https://img.shields.io/badge/Notion-AF8F6F?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-3b5998?style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:heejin094@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
