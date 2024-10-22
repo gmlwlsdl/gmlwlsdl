@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b6c9a5&height=100&section=header)
-
 <div align="center">
   <h3>희진 HeeJin Park</h3>
 </div>
