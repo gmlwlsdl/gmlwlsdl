@@ -1,4 +1,4 @@
-## 희진 hazel park
+## Frontend Developer
 
 ---
 
