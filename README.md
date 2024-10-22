@@ -18,7 +18,6 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
 </div>
