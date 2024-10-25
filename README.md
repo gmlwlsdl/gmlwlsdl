@@ -1,76 +1,50 @@
-## Frontend Developer
-
-### 🛠️ Languages & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+## FrontEnd Developer
+안녕하세요! 🙋🏻‍♀️ 프론트엔드 개발자 hazel입니다. <br />
+여러 사람들과 팀을 이뤄 하나의 목적을 향해 달리는 시간이 소중하게 느껴집니다. <br />
+새로운 기술을 배우는 것도 즐겁고, 누군가를 위한 서비스를 만드는 일도 참 보람찬 거 같습니다. <br />
+즐겁게 개발해요 👏🏻
+<br />
+<br />
+<br />
+## My values
+👩🏻‍💻 효율적인 코드를 위해 노력합니다. <br />
+👥 동료들과의 화합을 중시합니다. <br />
+✨ 경험하는 모든 일들에 진심입니다. <br />
+<br />
+<br />
+<br />
+## How i work
+즐겁게 코딩합니다. 표정은 조금 안 좋아보일 수 있는데요, 집중해서 그럴겁니다 😓 <br />
+<br />
+<br />
+<br />
+## Skills
+#### I use it often.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Emotion-EC6E4C?style=flat&logo=emotion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+#### I've used it before.
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
+  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
-
-<div>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</div>
-
+<br />
+<br />
 <br />
 
-### 👩🏻‍💻 About Me
-
-#### 🔐 Security Experience
-- **[2023.03 ~ ]** 중앙 보안 동아리 **K.Knock** (경기대학교)
-- **[2023.08.25 ~ 2021.01.06]** [한국정보기술연구원 주관 **화이트햇 스쿨 1기**](https://m.ddaily.co.kr/page/view/2023083118071281749)
-- **[2023.09.01 ~ 2023.12.21]** 경기대학교 **CERT(침해사고대응팀)** 근무
-- **[2024.01.20 ~ 2024.02.03]** **싱가포르 기업 Vellas 시큐어 코딩** 프로그램
-
-#### 👩🏻‍💻 Development Experience
-- **[2024.05.08 ~ 2024.05.26]** **미니인턴** (주)위어드섹터
-- **[2024.07.17 ~ ]** **구름톤 유니브 3기**
-- **[2024.09.06 ~ ]** **(주)구름** SW청소년 동행 프로젝트 멘토
-- **[2024.10.21 ~ ]** **카카오테크 클라우드 네이티브 in 제주**
-
-
-<br />
-
-### 💻 Projects
-
-| Project Name                               | Description                                                  | Tech Stack                                     | Period           | Link                                    |
-|--------------------------------------------|--------------------------------------------------------------|------------------------------------------------|------------------|-----------------------------------------|
-| **Cumulus**                                | AWS 환경에서 침해사고 분석을 위한 자동화 아키텍쳐 구성<br/><sub> (화이트햇 스쿨 1기)</sub> | AWS, Linux, Python, Volatility, LiME | 2023.10.21 ~ 2024.01.06 | [View Project](https://github.com/Cumulus-AWS/Auto-IR-Analysis_Architecture_In_AWS)   |
-| **AZA**                                    | 한국인의 3D 신체 데이터를 기반으로 맞춤형 의류 사이즈를 추천하는 AI 서비스<br/><sub> (경기대X성균관대X인하대 연합 부트캠프)</sub> | React, FastAPI, Google Colab | 2023.09.01 ~ 2023.12.21 | [View Project](https://github.com/AZA-BootCamp/Frontend.git)   |
-| **Family Note**                            | 나의 가족을 만들고, 질문을 통해 소통해요.<br/><sub> (구름톤 유니브 3기)</sub> | React, Docker | 2024.08.27 ~ 2024.09.25 | [View Project](https://github.com/9oormthonUNIV-3th-KGU/family-note-ui.git)   |
-| **BookLog**                                | 한 권의 책과 다양한 생각<br/><sub> (구름톤 유니브 3기)</sub>                               | React, Naver OpenAPI, Vercel | 2024.10.01 ~ 2024.10.13 | [View Project](https://github.com/team1-booklog/Frontend.git)   |
-
-<br />
-
-### 📫 Contact
-
-<div>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-3b5998?style=flat&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:heejin094@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-</div>
+Copyright ⓒ startupcode yaro
