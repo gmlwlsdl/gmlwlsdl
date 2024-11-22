@@ -5,7 +5,17 @@
 즐겁게 개발해요 👏🏻
 <br />
 <br />
-<br />
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/gmlwlsdl?pet-id=647825472186737206"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## My values
 👩🏻‍💻 효율적인 코드를 위해 노력합니다. <br />
 👥 동료들과의 화합을 중시합니다. <br />
