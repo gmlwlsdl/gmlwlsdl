@@ -47,15 +47,16 @@
 </div>
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gmlwlsdl&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/gmlwlsdl?pet-id=647825472186737206&contribution-view=false"
-    width="300"
+    src="https://render.gitanimals.org/lines/gmlwlsdl?pet-id=647825472186737206"
+    width="600"
     height="120"
   />
 </a>
-</div>
+  
 <br />
+  
 
 ## 👩🏻‍💻 About Me
 
