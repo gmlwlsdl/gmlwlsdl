@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </div>
 </div>
-
+  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gmlwlsdl&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/gmlwlsdl?pet-id=647825472186737206"
+    src="https://render.gitanimals.org/lines/gmlwlsdl"
     width="600"
     height="120"
   />
