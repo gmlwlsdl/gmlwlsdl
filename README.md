@@ -1,5 +1,13 @@
 ![e85fe88d76b02cc0d21d2da200084230](https://github.com/user-attachments/assets/e20b7132-179f-4dcb-beca-ca73df38571c)
-  
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gmlwlsdl&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/gmlwlsdl"
+    width="120"
+    height="120"
+  />
+</a>
+
 ### About Me
 
 - <strong>디프만</strong> 17기 Web <sub>( 2025.08.02 ~ ing )</sub>
